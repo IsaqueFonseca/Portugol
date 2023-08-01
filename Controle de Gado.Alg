@@ -9,7 +9,7 @@ Var
 Inicio
 
     Escreval("")
-    Escreva("O gado direcionado ao pasto 1 é:")
+    Escreva("O gado direcionado ao pasto 1 Ã©:")
     Para Gado de 1 ate 43 faca
       Se ((Gado mod 2) = 0) Entao
         Se (Gado <> 43) Entao
@@ -20,7 +20,7 @@ Inicio
     Fimpara
 
     Escreval("")
-    Escreva("O gado direcionado ao pasto 2 é:")
+    Escreva("O gado direcionado ao pasto 2 Ã©:")
     Para Gado de 1 ate 43 faca
       Se ((Gado mod 2) <> 0) Entao
         Se (Gado <> 43) Entao
